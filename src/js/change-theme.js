@@ -17,7 +17,6 @@ if (body.classList.contains('dark-theme')) {
 };
 
 changeBox.addEventListener('change', onChangeTheme);
-// onChangeTheme();
 
 function onChangeTheme() {
 
